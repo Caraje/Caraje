@@ -61,16 +61,4 @@ Soy más de buscar soluciones a problemas complicados que rendirme ante un reto 
 No soy una persona que de primeras de algo por imposible, Busco información y me informo de cuales son mis posibilidades para afrontar lo que tengo delante, aunque eso me lleve a aprender algo de lo que antes no sabia nada, como el caso del momento en el que decidí crear una web para mi proyecto personal, soy consciente de no saberlo todo, pero también lo soy de saber que vivimos en un momento en el que disponemos de prácticamente toda la información del mundo en nuestra mano, tan solo hay que preocuparse en investigar como poder usarla.
 
 
-### Cursos
----
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-
-
-[![React](https://res.cloudinary.com/caraje/image/upload/v1663667238/ipt0xxxvqlyqapzj8824.webp)](https://res.cloudinary.com/caraje/image/upload/v1663667229/ovjhzutc6dda1nhcl4wx.webp)
-[![Desarrollo Web](https://res.cloudinary.com/caraje/image/upload/v1663667238/dyt8i9gq3ddxh4wdd0m0.webp)](https://res.cloudinary.com/caraje/image/upload/v1663667228/vp8bukk51f9wibfjyiuo.webp)
-[![HTML](https://res.cloudinary.com/caraje/image/upload/v1663667238/unnmo0td4luw3pabounx.webp)](https://res.cloudinary.com/caraje/image/upload/v1663667228/nd543l1zanf7lifn6o5m.webp)
-[![Next.js](https://res.cloudinary.com/caraje/image/upload/v1663667238/iwjhxlnroxxzlohrid89.webp)](https://res.cloudinary.com/caraje/image/upload/v1663667228/xksl3lzmagdrr8rygtq8.webp)
-[![css](https://res.cloudinary.com/caraje/image/upload/v1663667238/xfhfadbvirj2hjhww89g.webp)](https://res.cloudinary.com/caraje/image/upload/v1663667228/ri8fjg11gmk8h0c9nx0g.webp)
-[![Javascript](https://res.cloudinary.com/caraje/image/upload/v1663667238/nhotlpbuityhr2otb5d2.webp)](https://res.cloudinary.com/caraje/image/upload/v1663667228/unx8x5vxqka3uyuehuwv.webp)
-[![Node](https://res.cloudinary.com/caraje/image/upload/v1663667238/zclyalvrbfovset8suil.webp)](https://res.cloudinary.com/caraje/image/upload/v1663667228/usapls3x9b8kxvpjntwo.webp)
 
